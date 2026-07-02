@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cooks Needed</title>
+</head>
+<body>
+
+    <h1>Cooks Needed</h1>
+    <p>We need people who can cook a delicious meal! If you cannot cook, then go to our other tab and make sure to apply for a server or host position. You should have knowledge of spices, meat, tacos, and more. Are you up for it? Then apply today!</p>
+    
+    <hr> 
+    
+    <img src="image_297d52.jpg" alt="Two chefs prepping food in a kitchen" width="300" height="200"/>
+
+    <br><br>
+    <button type="button" onclick="alert('Thank you for your interest! Application form coming soon.')">Apply Now</button>
+
+</body>
+</html>
